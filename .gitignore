@@ -1,4 +1,4 @@
 #不监控新建文件夹内，index.css文件
-index.css/
+!index.css/
 
 新建文件夹
