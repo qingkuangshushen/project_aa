@@ -2,3 +2,6 @@ p {
     font-size: 30px;
     color: skyblue;
 }
+p:nth-child(2){
+    color: red;
+}
